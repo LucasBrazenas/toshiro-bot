@@ -1,5 +1,5 @@
 {
     "token": "BOT_TOKEN",
-    "clientId": "1082747006205820981",
-    "guildId": "1030216227139887196"
+    "clientId": "CLIENT_ID",
+    "guildId": "GUILD_ID"
 }
